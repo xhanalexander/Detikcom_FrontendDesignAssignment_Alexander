@@ -4,7 +4,7 @@ import { BsFillPlusCircleFill } from "react-icons/bs";
 
 export default function RegisComponent() {
   return (
-    <div className="h-72 bg-gradient-to-b from-cyan-500 to-blue-500 relative">
+    <div className="h-72 relative bg-cover object-contain" style={{backgroundImage: "url(https://iili.io/HQCnoGa.png)"}}>
       <div className="absolute top-1/3 left-1/2 transform -translate-x-1/2">
         <h2 className="text-white text-5xl font-bold mb-10 text-center">
           Registrasi
