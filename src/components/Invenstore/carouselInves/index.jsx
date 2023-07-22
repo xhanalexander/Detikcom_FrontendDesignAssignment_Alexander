@@ -21,28 +21,28 @@ export default function CarouselIvestore() {
       prevArrow={<SampleArrow />}
     >
       <div className="pr-2">
-        <img src="src/assets/company/alpha.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/alpha.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/500.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/500.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/insig.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/insig.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/sequi.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/sequi.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/sginnovate.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/sginnovate.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/wave.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/wave.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/gfc.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/gfc.png" alt="" className="w-80 rounded-xl" />
       </div>
       <div className="pr-2">
-        <img src="src/assets/company/golden.png" alt="" className="w-80 rounded-xl" />
+        <img src="images/golden.png" alt="" className="w-80 rounded-xl" />
       </div>
     </Slider>
   );

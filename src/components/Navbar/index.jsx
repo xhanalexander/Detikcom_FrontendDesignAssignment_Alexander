@@ -10,7 +10,7 @@ export default function Navigation() {
     <Navbar className="sticky top-0 z-50 sm:px-16 py-5 drop-shadow-md bg-[#007bbd] text-white">
       <h1 className="font-semibold text-xl text-white">
         <Link to="/">
-          <img src="src/assets/NavbarBrand.png" alt="logo" className="h-10" />
+          <img src="https://iili.io/HQBRZJa.png" alt="logo" className="h-10" />
         </Link>
       </h1>
       <Navbar.Toggle 

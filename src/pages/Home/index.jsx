@@ -16,7 +16,7 @@ export default function HomePage() {
         className="hero min-h-screen relative"
         style={{
           backgroundImage:
-            "url(src/assets/FirstHeader.png)",
+            "url(https://iili.io/HQB5Czl.png)",
         }}
       >
         <div className="hero-content text-center text-white">

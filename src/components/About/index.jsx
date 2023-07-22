@@ -9,7 +9,7 @@ export default function About() {
       <div className="flex justify-between flex-wrap lg:flex-nowrap my-20">
         <div className="flex justify-between gap-10 flex-wrap lg:flex-nowrap">
           <img
-            src="src/assets/talkshow.png"
+            src="https://iili.io/HQBRpxp.png"
             alt=""
             className="w-full h-52 object-contain"
           />

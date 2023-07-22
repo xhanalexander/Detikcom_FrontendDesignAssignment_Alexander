@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    icon: "src/assets/regist.png",
+    icon: "https://iili.io/HQBRt5J.png",
     title: "Registrasi",
     date: "1 - 30 Januari 2023",
     content: [
@@ -11,7 +11,7 @@ export const data = [
   },
   {
     id: 2,
-    icon: "src/assets/selection.png",
+    icon: "https://iili.io/HQBRDOv.png",
     title: "Seleksi Peserta",
     date: "1 - 7 Februari 2023",
     content: [
@@ -22,7 +22,7 @@ export const data = [
   },
   {
     id: 3,
-    icon: "src/assets/announce.png",
+    icon: "https://iili.io/HQBRif1.png",
     title: "Pengumuman Peserta Terpilih",
     date: "8 Februari 2023",
     content: [

@@ -6,7 +6,7 @@ export default function Mekasisme() {
   return (
     <div
       className="h-auto bg-cover"
-      style={{backgroundImage: "url(src/assets/Mechanism_Background.png)"}}
+      style={{backgroundImage: "url(https://iili.io/HQB5fef.png)"}}
       id="Mechanism"
     >
       <div className="flex justify-center items-center">
